@@ -1,0 +1,40 @@
+#pizza {
+  position: absolute;
+  margin-left: 500px;
+}
+#cheese {
+  position: absolute;
+  margin-left: 650px;
+  margin-top: 250px;
+  visibility: hidden;
+}
+#peperoni {
+  position: absolute;
+  margin-left: 650px;
+  margin-top: 150px;
+  visibility: hidden;
+}
+#pineapple {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 150px;
+  visibility: hidden;
+}
+#bacon {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 250px;
+  visibility: hidden;
+}
+#steak {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 325px;
+  visibility: hidden;
+}
+#pork {
+  position: absolute;
+  margin-left: 825px;
+  margin-top: 225px;
+  visibility: hidden;
+}
